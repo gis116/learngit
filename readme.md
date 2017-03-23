@@ -9,4 +9,4 @@
 + understand git stage(index) and master
 
 
-+ git tracks changes of files
++ git tracks changes
