@@ -4,6 +4,9 @@
 
 
 2. git commit -m "xxx"
-3. git status
-4. **understand git stage(index) and master**
+3. git status  
 
++ understand git stage(index) and master
+
+
++ git tracks changes of files
