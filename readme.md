@@ -9,4 +9,5 @@
    + git tracks changes
 
 4. git branch
-   + create a branch is very quickly.
+   + create a branch is very quickly & simple.
+
