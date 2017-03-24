@@ -13,3 +13,4 @@
    + push changes to remote gitup
    + push to dev branch
    + push changes to gitup
+6. git pull
