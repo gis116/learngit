@@ -12,3 +12,4 @@
    + create a branch is very quickly and simple
 5. git push
    + push changes to remote gitup
+   + push to dev branch
